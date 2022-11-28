@@ -1,0 +1,12 @@
+{
+    "attributes" : [ {
+      "trait_type" : "Breed",
+      "value" : "Maltipoo"
+    }, {
+      "trait_type" : "Eye color",
+      "value" : "Mocha"
+    } ],
+    "description" : "The world's most adorable guys in EPF.",
+    "image" : "https://gateway.pinata.cloud/ipfs/QmePoWz5LGgbrrbcaEkSdn7Uoggpohs9jg7dL2zUZhRSfK",
+    "name" : "Zac and Driss"
+}
