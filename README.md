@@ -11,3 +11,5 @@ REPORT_GAS=true npx hardhat test
 npx hardhat node
 npx hardhat run scripts/deploy.js
 ```
+
+For more info about this EPF project, open the powerpoint file : [Project Presentation](Project_Presentation.pptx)
